@@ -1,0 +1,6 @@
+D:\ProgSoft2025\Practica1\libRnUniversidad\libRnUniversidad\bin\Debug\libRnUniversidad.dll
+D:\ProgSoft2025\Practica1\libRnUniversidad\libRnUniversidad\bin\Debug\libRnUniversidad.pdb
+D:\ProgSoft2025\Practica1\libRnUniversidad\libRnUniversidad\obj\Debug\libRnUniversidad.csproj.AssemblyReference.cache
+D:\ProgSoft2025\Practica1\libRnUniversidad\libRnUniversidad\obj\Debug\libRnUniversidad.csproj.CoreCompileInputs.cache
+D:\ProgSoft2025\Practica1\libRnUniversidad\libRnUniversidad\obj\Debug\libRnUniversidad.dll
+D:\ProgSoft2025\Practica1\libRnUniversidad\libRnUniversidad\obj\Debug\libRnUniversidad.pdb

@@ -1,0 +1,51 @@
+private void txtPromedio_KeyPress(object sender, KeyPressEventArgs e)
+{
+    // Permitir solo dígitos, coma decimal y retroceso
+    if (!char.IsDigit(e.KeyChar) && e.KeyChar != (char)Keys.Back && e.KeyChar != ',')
+    {
+        e.Handled = true;
+    }
+    else
+    {
+        if (e.KeyChar == ',')
+        {
+            // Verificar si ya existe una coma en el texto
+            if (((TextBox)sender).Text.Contains(","))
+                e.Handled = true; // Ya hay una coma, no dejar ingresar otra
+            else
+                e.Handled = false;
+        }
+        else
+        {
+            e.Handled = false;
+        }
+    }
+
+    // Manejar la tecla de retroceso
+    if (e.KeyChar == (char)Keys.Back)
+    {
+        if (txtPromedio.Text.Length > 0)
+        {
+            txtPromedio.Text = txtPromedio.Text.Substring(0, txtPromedio.Text.Length - 1);
+        }
+        e.Handled = true; // Se manejó el evento manualmente
+    }
+
+    // Validación de máximo dos decimales
+    bool isDec = false;
+    int nroDec = 0;
+
+    for (int i = 0; i < txtPromedio.Text.Length; i++)
+    {
+        if (txtPromedio.Text[i] == ',')
+            isDec = true;
+        else if (isDec)
+            nroDec++;
+    }
+
+    if (isDec && nroDec >= 2)
+    {
+        e.Handled = true; // Ya tiene dos decimales
+        return;
+    }
+}

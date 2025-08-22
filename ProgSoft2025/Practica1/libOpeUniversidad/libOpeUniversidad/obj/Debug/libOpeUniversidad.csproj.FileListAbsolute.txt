@@ -1,0 +1,17 @@
+D:\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\bin\Debug\libOpeUniversidad.dll
+D:\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\bin\Debug\libOpeUniversidad.pdb
+D:\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\bin\Debug\libRnUniversidad.dll
+D:\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\bin\Debug\libRnUniversidad.pdb
+D:\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\obj\Debug\libOpeUniversidad.csproj.AssemblyReference.cache
+D:\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\obj\Debug\libOpeUniversidad.csproj.CoreCompileInputs.cache
+D:\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\obj\Debug\libOpeUn.F7D39A9D.Up2Date
+D:\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\obj\Debug\libOpeUniversidad.dll
+D:\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\obj\Debug\libOpeUniversidad.pdb
+C:\Users\salak406\Desktop\Proyecto\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\bin\Debug\libOpeUniversidad.pdb
+C:\Users\salak406\Desktop\Proyecto\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\bin\Debug\libRnUniversidad.dll
+C:\Users\salak406\Desktop\Proyecto\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\bin\Debug\libRnUniversidad.pdb
+C:\Users\salak406\Desktop\Proyecto\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\obj\Debug\libOpeUniversidad.csproj.AssemblyReference.cache
+C:\Users\salak406\Desktop\Proyecto\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\obj\Debug\libOpeUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\salak406\Desktop\Proyecto\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\obj\Debug\libOpeUn.F7D39A9D.Up2Date
+C:\Users\salak406\Desktop\Proyecto\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\obj\Debug\libOpeUniversidad.dll
+C:\Users\salak406\Desktop\Proyecto\ProgSoft2025\Practica1\libOpeUniversidad\libOpeUniversidad\obj\Debug\libOpeUniversidad.pdb
